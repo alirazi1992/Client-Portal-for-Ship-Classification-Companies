@@ -78,7 +78,7 @@ client-portal/
 
   ```bash
  git clone https://github.com/alirazi1992/client-portal.git
-    
+ ```   
  2.Install dependencies
 
   ```bash
