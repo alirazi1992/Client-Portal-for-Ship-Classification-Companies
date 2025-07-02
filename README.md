@@ -44,36 +44,36 @@ client-portal/
 │   ├── components/
         
         
-        |----------Sidebar.jsx
+     |----------Sidebar.jsx
         
-        |----------Header.jsx
+     |----------Header.jsx
 
         
 │   ├── pages/
         
-        |----------Dahsboard.jsx
+    |----------Dahsboard.jsx
 
         
-        |----------InspectionRequest.jsx
+    |----------InspectionRequest.jsx
 
         
-        |----------SurveyStatus.jsx
+    |----------SurveyStatus.jsx
 
         
-        |----------Certoificates.jsx
+    |----------Certoificates.jsx
  
-        |----------History.jsx
+    |----------History.jsx
 
         
-        |---------Support.jsx
+    |---------Support.jsx
 
         
 │   ├── store/
 
         
-        |-------App.jsx
+    |-------App.jsx
 
-        |-------main.jsx
+    |-------main.jsx
         
 │   ├── utils/
 
