@@ -42,16 +42,36 @@ client-portal/
 ├── src/
 
 │   ├── components/
-
+        |
+        |----------Sidebar.jsx
+        |
+        |----------Header.jsx
+        |
 │   ├── pages/
-
+        |
+        |----------Dahsboard.jsx
+        |
+        |----------InspectionRequest.jsx
+        |
+        |----------SurveyStatus.jsx
+        |
+        |----------Certoificates.jsx
+        |
+        |----------History.jsx
+        |
+        |---------Support.jsx
+        |
 │   ├── store/
-
+        |
+        |-------App.jsx
+        |
+        |-------main.jsx
+        |
 │   ├── utils/
 
 │   ├── assets/
 
-│   └── App.jsx
+│  
 
 ├── README.md
 
