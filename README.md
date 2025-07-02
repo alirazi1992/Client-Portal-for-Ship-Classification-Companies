@@ -1,12 +1,109 @@
-# React + Vite
+# 🛳️ Client Portal for Ship Classification Companies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application designed for ship owners and marintime companies to efficiently manage inspection requests, track survey statues, view certification records, and communicate with technical ezxperts. 
+Built with React and modern UI libraries, this platform offers na intuitive experince tailored to maritime calssification workflows.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ✅ Key Features
 
-## Expanding the ESLint configuration
+**- Inseption Request Submission**
+    Easily submit requests for inseptions os certificates issuance.
+**-Survay Status Tracking**
+    Monitoring th eprogress of your insoection or certification cases in real-time.
+**-Certificate Dashboard**
+    View issued certificates along with their expiration dates. Download official PDFs.
+**-Inspection History**
+    Access a full archive of past inspection records for each vessel.
+**-Technical Chat & Ticketing**
+    Communicate directly with classification experts through an integrated support system.
+**-Smart Notifications**
+    Receieve alerts for upcoming inseptions or certificates nearing expiration.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    ---
+
+# 🚀 Tech Stack
+
+**-Fronted:** React.js, Tailwind CSS/ Material UI
+**-Routing:** React Router 
+**-State Managment:** Toastify/ Custom Alerts
+**-PDF Handling:** jsPDF or FileSaver.js(for certificate downloads)
+**-backend(optional):** Node.js + Express or Firebase 
+
+----
+# 📁 Folder Structure
+
+
+client-portal/
+
+├── public/
+
+├── src/
+
+│   ├── components/
+
+│   ├── pages/
+
+│   ├── store/
+
+│   ├── utils/
+
+│   ├── assets/
+
+│   └── App.jsx
+
+├── README.md
+
+├── package.json
+
+└── vite.config.js
+
+---
+# 🧭 Roadmap
+
+  -  Authentication (Login for companies)
+
+  - Admin dashboard for surveyors
+
+  - File upload feature for documentation
+
+  - Multi-language support (EN + FA)
+
+  - Role-based access control
+---
+# 💡 Usage
+
+  1. Clone the repo
+
+     ```bash
+     git clone https://github.com/alirazi1992/client-portal.git
+    ```
+   2.Install dependencies
+
+   ```bash
+    npm install
+  ```
+  3. Run the app
+
+```bash
+  npm run dev
+```
+----
+# 📬 Feedback & Contributions
+We welcome feedback and contributions!
+Feel free to open an issue or pull request.
+
+     
+
+
+     
+
+
+
+
+
+
+
+
+
+    
