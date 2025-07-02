@@ -42,19 +42,29 @@ client-portal/
 src/
 │
 ├── pages/
+
 │   ├── Dashboard.jsx
+
 │   ├── InspectionRequest.jsx
+
 │   ├── SurveyStatus.jsx
+
 │   ├── Certificates.jsx
+
 │   ├── History.jsx
+
 │   └── Support.jsx
 │
 ├── components/
+
 │   ├── Sidebar.jsx
+
 │   └── Header.jsx
 │
-├── store/            # Zustand یا Redux store
+├── store/ 
+
 ├── App.jsx
+
 └── main.jsx
 
 ---
