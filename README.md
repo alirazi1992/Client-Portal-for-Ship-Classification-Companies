@@ -20,6 +20,7 @@ Built with React and modern UI libraries, this platform offers na intuitive expe
 **-Smart Notifications**
     Receieve alerts for upcoming inseptions or certificates nearing expiration.
 
+----
     
 
 # 🚀 Tech Stack
@@ -75,15 +76,15 @@ client-portal/
 
   1. Clone the repo
 
-     ```bash
-     git clone https://github.com/alirazi1992/client-portal.git
+  ```bash
+ git clone https://github.com/alirazi1992/client-portal.git
     
-   2.Install dependencies
+ 2.Install dependencies
 
-   ```bash
+  ```bash
     npm install
   ```
-  3. Run the app
+3. Run the app
 
 ```bash
   npm run dev
