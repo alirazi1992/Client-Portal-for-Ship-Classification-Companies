@@ -39,53 +39,23 @@ client-portal/
 
 ├── public/
 
-├── src/
-
-│   ├── components/
-        
-        
-     |----------Sidebar.jsx
-        
-     |----------Header.jsx
-
-        
-│   ├── pages/
-        
-    |----------Dahsboard.jsx
-
-        
-    |----------InspectionRequest.jsx
-
-        
-    |----------SurveyStatus.jsx
-
-        
-    |----------Certoificates.jsx
- 
-    |----------History.jsx
-
-        
-    |---------Support.jsx
-
-        
-│   ├── store/
-
-        
-    |-------App.jsx
-
-    |-------main.jsx
-        
-│   ├── utils/
-
-│   ├── assets/
-
-│  
-
-├── README.md
-
-├── package.json
-
-└── vite.config.js
+src/
+│
+├── pages/
+│   ├── Dashboard.jsx
+│   ├── InspectionRequest.jsx
+│   ├── SurveyStatus.jsx
+│   ├── Certificates.jsx
+│   ├── History.jsx
+│   └── Support.jsx
+│
+├── components/
+│   ├── Sidebar.jsx
+│   └── Header.jsx
+│
+├── store/            # Zustand یا Redux store
+├── App.jsx
+└── main.jsx
 
 ---
 # 🧭 Roadmap
